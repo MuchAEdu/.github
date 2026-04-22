@@ -9,7 +9,7 @@ This repository, alongside [a](https://github.com/MuchAEDu/AEdu2026) [few](https
 
 
 <div align="center">
-  <img src="docs/assets/1.png" title="AEdu: The 2026 ALife Education Workshop">
+  <img src="../docs/assets/1.png" title="AEdu: The 2026 ALife Education Workshop">
   <br>
 </div>
 
